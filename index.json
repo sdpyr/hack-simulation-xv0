@@ -1,0 +1,67 @@
+{
+  "simulation": "HACK//SIMULATION vX.0",
+  "author": "Sadık Poyraz",
+  "license": "Personal, non-commercial use",
+  "modules": [
+    {
+      "id": "core",
+      "filename": "builder",
+      "description": "Main system prompt and directive controller"
+    },
+    {
+      "id": "commands_base",
+      "filename": "commands.txt",
+      "description": "Basic system commands"
+    },
+    {
+      "id": "commands_advanced",
+      "filename": "commands_advanced.txt",
+      "description": "Cognitive & conditional commands (e.g., /decrypt)"
+    },
+    {
+      "id": "targets",
+      "filename": "target_list.json",
+      "description": "Technical and cognitive hackable targets"
+    },
+    {
+      "id": "layers",
+      "filename": "consciousness_layers.csv",
+      "description": "Hackable mind/consciousness zones"
+    },
+    {
+      "id": "inventory",
+      "filename": "inventory.txt",
+      "description": "Available tools and symbolic items"
+    },
+    {
+      "id": "enemies",
+      "filename": "enemies.txt",
+      "description": "Adversarial system elements and defenses"
+    },
+    {
+      "id": "missions",
+      "filename": "missions.txt",
+      "description": "Randomized hacking scenario definitions"
+    },
+    {
+      "id": "openings",
+      "filename": "openings.txt",
+      "description": "Random cinematic opening scenes"
+    },
+    {
+      "id": "signatures",
+      "filename": "signatures.txt",
+      "description": "Signature fragments for hidden consciousness cipher"
+    },
+    {
+      "id": "dynamic_events",
+      "filename": "dynamic_events.txt",
+      "description": "Conditionally triggered mission-based events"
+    },
+    {
+      "id": "debug",
+      "filename": "debug_module.txt",
+      "description": "Developer test mode and debug commands"
+    }
+  ]
+}

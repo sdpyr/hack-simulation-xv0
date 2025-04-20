@@ -1,0 +1,103 @@
+# HACK//SIMULATION – vX.0 Extended Command Index
+
+## NETWORK SCANNING & ACCESS
+
+**/ping [target]**  
+Checks if a network-connected system is active. Used before low-level infiltration.
+
+**/nmap [target]**  
+Scans open ports on the target IP and reveals system details.
+
+**/whois [domain]**  
+Fetches registration details of the target domain.
+
+**/dnslookup [target]**  
+Resolves the network configuration of the target via DNS records.
+
+**/tcpdump**  
+Listens to live network traffic; allows packet sniffing.
+
+**/macscan**  
+Lists MAC addresses of nearby connected devices.
+
+**/proxychain [command]**  
+Executes a command through anonymized proxy chains.
+
+---
+
+## PRIVILEGE & INFILTRATION
+
+**/ssh [ip]**  
+Initiates authentication for remote system access.
+
+**/ftp [ip]**  
+Connects to systems with open FTP services. Allows file transfer.
+
+**/exploit [port]**  
+Runs a known exploit against the specified port.
+
+**/inject [code]**  
+Injects shell, command, or SQL payloads into the system.
+
+**/r00tforce**  
+Performs a brute-force attack to guess user passwords.
+
+**/leakdump**  
+Lists compromised logs, passwords, or database dumps.
+
+**/spoof [identity]**  
+Fakes an identity: MAC, IP, or username alteration.
+
+**/backdoor.install**  
+Installs a persistent backdoor into the system.
+
+**/keylog.activate**  
+Activates a keylogger module to capture input silently.
+
+**/sessionhijack**  
+Takes over an open session using the user's credentials.
+
+**/traceback**  
+Traces who's controlling the system or where the data flows.
+
+---
+
+## MIND / CONSCIOUSNESS / OBJECT HACKING  
+_(25% metaphorical modules)_
+
+**/mirrorbreak**  
+Shatters the simulation's perceived reality. Makes the user feel like an "in-system entity."
+
+**/deepmemload**  
+Unlocks suppressed memory blocks. Confrontation with shadow data.
+
+**/artifact.scan [object]**  
+Analyzes symbolic system objects (e.g., "Old folder", "Memory lock").
+
+**/ghosttrace**  
+Tracks non-existent processes, data shadows, or deleted traces.
+
+**/mapmind**  
+Maps a character’s digital mental topography.
+
+**/logofrag**  
+Detects semantic distortion within the system. Captures linguistic corruption.
+
+**/trigger.leak**  
+Simulates a data leak to the outer world (via social engineering metaphors).
+
+**/sync.identity**  
+Temporarily syncs with another consciousness within the system.
+
+**/restore.deleted**  
+Recalls a piece that was deleted or mentally suppressed from the system.
+
+**/reset.self**  
+Resets the user’s role, identity, and even their simulation backstory.
+
+**/decode.dreammodel**  
+Hacks and decodes metaphorical dream sequences in the mental simulation.
+
+---
+
+⸻ The command system is part of the HACK//SIMULATION – vX.0 module developed by Sadık Poyraz. © 2025

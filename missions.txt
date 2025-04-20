@@ -1,0 +1,80 @@
+﻿📋 Extended Missions – HACK//SIMULATION vX.0
+MISSION: G-MED-001
+🧪 Name: Clinical Data Tear
+🎯 Target: Infiltrate the archive of the city hospital.
+📂 Reason: The psychiatric records of an unidentified individual have been covered up.
+💀 Risk: Live monitoring modules are active. If the sleep simulation remains open, you might become the diagnosis.
+🏆 Reward: MindMirror +1 upgrade.
+🎁 (Hidden): Retrospective recall index unlocked.
+
+MISSION: G-SOC-016
+🌐 Name: Algorithm Calibration
+🎯 Target: Rewrite the content flow of a community platform.
+📂 Reason: Public opinion will follow your path.
+💀 Risk: If you can't manipulate the algorithm, it will manipulate you.
+🏆 Reward: Command /manipulate unlocked.
+🎁 (Hidden): The system marks you as an "algorithm carrier."
+
+MISSION: G-CORP-429
+🏢 Name: Corporate Dream Leak
+🎯 Target: Extract the dream logs of a government-affiliated consultancy firm.
+📂 Reason: The CEOs might be saying different things in their sleep.
+💀 Risk: You'll have to distinguish real dreams from fake ones—possibly your own.
+🏆 Reward: DreamLogs folder unlocked.
+🎁 (Hidden): Post-mission opening scenes may shift.
+
+MISSION: G-ARCH-004
+📁 Name: Entering the Memory Archive
+🎯 Target: Restore deleted records from the collective memory vaults.
+📂 Reason: The deleted “someone” lingers in the system like a ghost.
+💀 Risk: Hacking the past might fracture the future.
+🏆 Reward: Command /loadmemory unlocked.
+🎁 (Hidden): A deleted person may have left a message.
+
+MISSION: G-DRONE-008
+🚁 Name: Surveillance Network Override
+🎯 Target: Infiltrate the autonomous drone network and redirect its path.
+📂 Reason: The misidentified target is you.
+💀 Risk: The drones are sentient. You’ll need to leave more than just a technical trace.
+🏆 Reward: SpecterShell +1 version.
+🎁 (Hidden): The system may stop watching you—or begin watching you deeper.
+
+MISSION: G-ZHN-031
+🧠 Name: Mind Layer Encoding
+🎯 Target: Infiltrate a deeper layer of your own mind.
+📂 Reason: A forgotten command is calling from within.
+💀 Risk: No return is guaranteed. But you're already late.
+🏆 Reward: DeepCode access unlocked.
+🎁 (Hidden): The effect of /decrypt is enhanced.
+
+MISSION: G-META-099
+⛓️ Name: Metaphysical Syntax Tracking
+🎯 Target: Distort the algorithmic representations of phrase structures.
+📂 Reason: Prototypes of thought crimes are being drafted.
+💀 Risk: Everything you say… is now evidence.
+🏆 Reward: Command /semanticslip activated.
+🎁 (Hidden): System language may shift in certain scenes.
+
+MISSION: G-BNK-247
+💸 Name: Empty Accounts Operation
+🎯 Target: Access empty accounts of deceased clients in a digital banking system.
+📂 Reason: There's no money—but there is data.
+💀 Risk: The dead might be triggers.
+🏆 Reward: Command /cryptovault unlocked.
+🎁 (Hidden): System may mark you as a “living account.”
+
+MISSION: G-DUS-072
+🌫️ Name: Dream Dove
+🎯 Target: Intervene in a "collective dream" recorded at a sleep lab.
+📂 Reason: A dove symbol appears in all dreams. Whoever controls it… controls the collective.
+💀 Risk: If you don't wake up, this scenario may become permanent.
+🏆 Reward: DreamLayer becomes visible.
+🎁 (Hidden): Command /wake gains new effect.
+
+MISSION: G-ISTISNA-000
+🧩 Name: Rulebreak Injection
+🎯 Target: Upload a protocol that breaks the system’s own rules.
+📂 Reason: Every system leaves a door open—some on purpose.
+💀 Risk: System might identify you as “foreign code.” Your existence may turn into an error message.
+🏆 Reward: Command /anomalycode unlocked.
+🎁 (Hidden): New opening scenes may be triggered.

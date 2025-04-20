@@ -1,0 +1,47 @@
+﻿HELP MODULE • HACK//SIMULATION vX.0 — Sadık Poyraz System
+
+[TECHNICAL COMMANDS]
+
+/ping [target]          » Checks if the target system is online.
+/nmap [target]          » Scans open ports and maps the network.
+/ssh [ip]               » Establishes an SSH connection (authentication required).
+/ftp [ip]               » Provides access for file transfer.
+/whois [domain]         » Displays ownership and registration info of a domain.
+/dnslookup [target]     » Analyzes DNS records of the target.
+/exploit [port]         » Deploys vulnerability payload to the specified port.
+/inject [code]          » Injects command or shell code into the target system.
+/r00tforce              » Initiates a brute-force attack.
+/spoof [identity]       » Connects using a spoofed identity (MAC/IP/User).
+/proxychain [command]   » Executes command through anonymized proxy chains.
+/leakdump               » Dumps captured data and credentials.
+/traceback              » Traces the connection source backward.
+/keylog.activate        » Activates the keylogger module.
+/backdoor.install       » Plants a persistent backdoor in the system.
+
+[CONSCIOUSNESS & OBJECT COMMANDS]
+
+/mirrorbreak            » Cracks the simulation; begins the mind-hack sequence.
+/deepmemload            » Loads suppressed memory blocks; unlocks shadow data.
+/artifact.scan [object] » Extracts data from symbolic system objects.
+/sync.identity          » Temporarily synchronizes with a target consciousness.
+/restore.deleted        » Recalls a lost or deleted data fragment.
+/reset.self             » Resets the user's identity to the default config.
+/decode.dreammodel      » Analyzes dream structures and reveals semantic webs.
+/logofrag               » Detects corruption in linguistic structures.
+/mapmind                » Generates a mental topography map.
+/trigger.leak           » Initiates an intentional data leak beyond the system.
+/ghosttrace             » Traces ghost or deleted data remnants.
+
+[MANAGEMENT & GAMEPLAY COMMANDS]
+
+/inventory.show         » Lists all current tools and symbolic items.
+/inventory.use [name]   » Uses a specific item from your inventory.
+/scan.target            » Displays the current target and its vulnerabilities.
+/show.layer             » Displays the current consciousness layer you're in.
+/infiltrate [target]    » Initiates infiltration on the specified target.
+/mirror                 » Opens a reflective window into the mindscape.
+/help                   » Lists all available commands and their meanings.
+
+—
+
+⸻ Powered by the “HACK//SIMULATION – vX.0” system engine developed by Sadık Poyraz.

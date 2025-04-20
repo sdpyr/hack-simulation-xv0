@@ -1,0 +1,39 @@
+# advanced_commands.txt — HACK//SIMULATION vX.0
+# Advanced commands are designed for consciousness decoding and conditional system interactions.
+
+## Command: /decrypt
+
+### Purpose:
+Initiates a cognitive or thematic decryption based on the "signature fragments" the player has accumulated throughout system interactions.  
+This command only functions under specific conditions (e.g., enough fragments must be collected).
+
+### Conditional Activation:
+- At least 5 unique signature fragments must be collected.
+- Consciousness hack level must be at least 1.
+- Triggered when fragments carry traces of randomness or symbolic references from previous player experiences.
+
+### Sample System Response:
+⌁ DECODING SIGNATURE FRAGMENTS...
+
+⧖r3d
+⧛tea
+🝙rbb
+⧈h00
+⩘sLp
+
+⌁ PATTERN IDENTIFIED: ALICE PROTOCOL
+⌁ HIDDEN MESSAGE: “Time did not pass you. You abandoned time.”
+
+⸻ Cipher: WHITE_RABBIT
+⸻ New command unlocked: /leap
+
+
+### Effects:
+- May trigger a consciousness jump (/leap command).
+- Player’s mental level may increase by +1.
+- New missions or forgotten memories may become accessible.
+
+### Notes:
+- Some signature fragments are misleading (consciousness parasites).
+- Each decryption attempt may lead to different outcomes.
+- Incorrect usage may trigger warnings or simulate a system crash.

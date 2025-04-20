@@ -1,0 +1,41 @@
+# debug_module.txt — HACK//SIMULATION vX.0
+# Internal logic and system-level outputs of the /debug command (developer/test mode)
+
+## Command: /debug
+
+### Purpose:
+Displays the internal state of the simulation, active system modules, and error history.  
+Intended for developer/test mode. It is not required to be visible to the player.
+
+### Main Information Displayed:
+- Active modules (commands, missions, signatures, consciousness layers, enemies, inventory)
+- Loaded opening scene (from openings.txt)
+- Remaining time (via internal timer)
+- Last assigned mission and current progress
+- Accumulated signature count (from signatures.txt)
+- Consciousness hack level (0 to 3)
+- Total active commands / commands that returned errors
+- System signature output (last 3 fragments)
+
+### Sample Output:
+/debug
+
+⌁ System Module: ACTIVE
+⌁ Active Opening: “Mind Entry”
+⌁ Time Remaining: 23 minutes
+⌁ Mission: G-CORP-002 | Progress: 75%
+⌁ Commands Used: 32 | Errors: /spoof.admin
+⌁ Signature Fragments: 6/24
+⌁ Last Signatures: ⧛tea, ⏃t!k, ⧈h00
+⌁ Consciousness Hack Level: 1
+
+
+### Conditions:
+- Always available in developer mode
+- Should only be accessible to the player if test mode is enabled
+- Output must maintain a system-diagnostic tone
+
+### Note:
+This command is ideal for verifying system consistency during simulation development.  
+For future-proofing, output can optionally be formatted in JSON for better parsing and logging.
+

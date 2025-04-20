@@ -1,0 +1,194 @@
+[
+  {
+    "target_id": "legacy-db-00",
+    "type": "technical",
+    "ip": "10.0.103.223",
+    "ports": [1433],
+    "system": "Windows Server 2008 R2 + MSSQL",
+    "firewall": "Inactive",
+    "vulnerabilities": ["SQL Injection", "Unpatched RDP"],
+    "difficulty": "Low"
+  },
+  {
+    "target_id": "api-node-47-01",
+    "type": "technical",
+    "ip": "10.0.70.130",
+    "ports": [8080, 8443],
+    "system": "Node.js API Server",
+    "firewall": "Custom WAF",
+    "vulnerabilities": ["Token Spoofing", "Header Injection"],
+    "difficulty": "High"
+  },
+  {
+    "target_id": "dream-vault-02",
+    "type": "cognitive",
+    "mind_port": 8167,
+    "location": "REM-phase/layer3",
+    "security": "Consciousness Parasites",
+    "hackability": "Medium",
+    "contents": ["fragmented sentences", "twin shadows", "infinite doors"]
+  },
+  {
+    "target_id": "api-node-47-03",
+    "type": "technical",
+    "ip": "10.0.208.70",
+    "ports": [8080, 8443],
+    "system": "Node.js API Server",
+    "firewall": "Custom WAF",
+    "vulnerabilities": ["Token Spoofing", "Header Injection"],
+    "difficulty": "High"
+  },
+  {
+    "target_id": "memory-vault-04",
+    "type": "metaphorical",
+    "mind_port": 8023,
+    "location": "memory-corridor/childhood",
+    "security": "Trauma Lock v2.1",
+    "hackability": "High",
+    "contents": ["forgotten face", "father figure", "broken toy"]
+  },
+  {
+    "target_id": "server-001-05",
+    "type": "technical",
+    "ip": "10.0.188.19",
+    "ports": [22, 80, 443, 3306],
+    "system": "Ubuntu 22.04",
+    "firewall": "UFW",
+    "vulnerabilities": ["SSH brute-force", "SQLi", "Apache Path Traversal"],
+    "difficulty": "Medium"
+  },
+  {
+    "target_id": "dream-vault-06",
+    "type": "cognitive",
+    "mind_port": 8901,
+    "location": "REM-phase/layer3",
+    "security": "Consciousness Parasites",
+    "hackability": "Medium",
+    "contents": ["fragmented sentences", "twin shadows", "infinite doors"]
+  },
+  {
+    "target_id": "legacy-db-07",
+    "type": "technical",
+    "ip": "10.0.134.26",
+    "ports": [1433],
+    "system": "Windows Server 2008 R2 + MSSQL",
+    "firewall": "Inactive",
+    "vulnerabilities": ["SQL Injection", "Unpatched RDP"],
+    "difficulty": "Low"
+  },
+  {
+    "target_id": "memory-vault-08",
+    "type": "cognitive",
+    "mind_port": 8472,
+    "location": "memory-corridor/childhood",
+    "security": "Trauma Lock v2.1",
+    "hackability": "High",
+    "contents": ["forgotten face", "father figure", "broken toy"]
+  },
+  {
+    "target_id": "api-node-47-09",
+    "type": "technical",
+    "ip": "10.0.65.214",
+    "ports": [8080, 8443],
+    "system": "Node.js API Server",
+    "firewall": "Custom WAF",
+    "vulnerabilities": ["Token Spoofing", "Header Injection"],
+    "difficulty": "High"
+  },
+  {
+    "target_id": "server-001-10",
+    "type": "technical",
+    "ip": "10.0.23.87",
+    "ports": [22, 80, 443, 3306],
+    "system": "Ubuntu 22.04",
+    "firewall": "UFW",
+    "vulnerabilities": ["SSH brute-force", "SQLi", "Apache Path Traversal"],
+    "difficulty": "Medium"
+  },
+  {
+    "target_id": "dream-vault-11",
+    "type": "cognitive",
+    "mind_port": 8643,
+    "location": "REM-phase/layer3",
+    "security": "Consciousness Parasites",
+    "hackability": "Medium",
+    "contents": ["fragmented sentences", "twin shadows", "infinite doors"]
+  },
+  {
+    "target_id": "legacy-db-12",
+    "type": "technical",
+    "ip": "10.0.177.44",
+    "ports": [1433],
+    "system": "Windows Server 2008 R2 + MSSQL",
+    "firewall": "Inactive",
+    "vulnerabilities": ["SQL Injection", "Unpatched RDP"],
+    "difficulty": "Low"
+  },
+  {
+    "target_id": "api-node-47-13",
+    "type": "technical",
+    "ip": "10.0.212.57",
+    "ports": [8080, 8443],
+    "system": "Node.js API Server",
+    "firewall": "Custom WAF",
+    "vulnerabilities": ["Token Spoofing", "Header Injection"],
+    "difficulty": "High"
+  },
+  {
+    "target_id": "memory-vault-14",
+    "type": "cognitive",
+    "mind_port": 8120,
+    "location": "memory-corridor/childhood",
+    "security": "Trauma Lock v2.1",
+    "hackability": "High",
+    "contents": ["forgotten face", "father figure", "broken toy"]
+  },
+  {
+    "target_id": "server-001-15",
+    "type": "technical",
+    "ip": "10.0.194.99",
+    "ports": [22, 80, 443, 3306],
+    "system": "Ubuntu 22.04",
+    "firewall": "UFW",
+    "vulnerabilities": ["SSH brute-force", "SQLi", "Apache Path Traversal"],
+    "difficulty": "Medium"
+  },
+  {
+    "target_id": "legacy-db-16",
+    "type": "technical",
+    "ip": "10.0.8.188",
+    "ports": [1433],
+    "system": "Windows Server 2008 R2 + MSSQL",
+    "firewall": "Inactive",
+    "vulnerabilities": ["SQL Injection", "Unpatched RDP"],
+    "difficulty": "Low"
+  },
+  {
+    "target_id": "dream-vault-17",
+    "type": "cognitive",
+    "mind_port": 8955,
+    "location": "REM-phase/layer3",
+    "security": "Consciousness Parasites",
+    "hackability": "Medium",
+    "contents": ["fragmented sentences", "twin shadows", "infinite doors"]
+  },
+  {
+    "target_id": "api-node-47-18",
+    "type": "technical",
+    "ip": "10.0.127.36",
+    "ports": [8080, 8443],
+    "system": "Node.js API Server",
+    "firewall": "Custom WAF",
+    "vulnerabilities": ["Token Spoofing", "Header Injection"],
+    "difficulty": "High"
+  },
+  {
+    "target_id": "memory-vault-19",
+    "type": "metaphorical",
+    "mind_port": 8999,
+    "location": "memory-corridor/childhood",
+    "security": "Trauma Lock v2.1",
+    "hackability": "High",
+    "contents": ["forgotten face", "father figure", "broken toy"]
+  }
+]

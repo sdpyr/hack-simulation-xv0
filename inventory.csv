@@ -1,0 +1,6 @@
+Object,Type,Function,Usage Mode,Level
+NetInjector,Tool,Used to inject code into the target system.,/inject [code],Medium
+SpecterShell,Tool,Creates a reverse shell. Provides connection without leaving a trace.,/r00tforce → /inject shell,High
+MindMirror,Symbolic Object,Reflects suppressed thoughts to open inner gateways.,/mirrorbreak,Low
+ShadowModule,Tool,Grants invisibility against security systems.,/spoof + /traceback,High
+MemoryFragment,Symbolic Object,Reveals a lost memory block, triggering cognitive unraveling.,/deepmemload,Medium

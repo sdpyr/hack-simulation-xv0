@@ -1,0 +1,50 @@
+# dynamic_events.txt — HACK//SIMULATION vX.0
+# Random dynamic events triggered during missions
+# Each event includes: [TITLE], [TRIGGER], [EFFECT], [DURATION], [RESPONSE]
+
+---
+
+## EVENT: PARALLEL INTRUSION  
+[Trigger]: At the 10th minute of a mission – 30% chance  
+[Effect]: Another hacker is active in the system. Their trace may overlap with yours.  
+[Duration]: For 5 minutes, all ping and nmap results may be inconsistent.  
+[Response]: Use /spoof [trace] or /traceback to shadow their signal.
+
+---
+
+## EVENT: DREAM PARASITE  
+[Trigger]: 15% chance during consciousness layer access  
+[Effect]: Echoes appear in memory data. Some commands may return corrupted or nonsensical output.  
+[Duration]: Persistent — weakens consciousness hack efficiency  
+[Response]: Mitigate with /mirrorbreak or /reset.self
+
+---
+
+## EVENT: BROKEN PORTAL  
+[Trigger]: Mid-mission – 20% chance  
+[Effect]: A non-native consciousness briefly connects to the system.  
+[Duration]: 3 minutes  
+[Response]: Use /inventory.use MindMirror or /artifact.scan to analyze the breach
+
+---
+
+## EVENT: TEMPORAL DRIFT  
+[Trigger]: At the 20th minute of a mission – 25% chance  
+[Effect]: Mission timer fast-forwards by 5 minutes  
+[Duration]: Instant effect, permanent time loss  
+[Response]: Can be verified with /status — but cannot be reversed
+
+---
+
+## EVENT: UNENCRYPTED DATA FRAGMENT  
+[Trigger]: After /inject or /leakdump — 40% chance  
+[Effect]: Additional data is revealed  
+[Duration]: Active for the current mission  
+[Response]: Running /leakdump or /deepmemload may yield more output
+
+---
+
+# Note:
+# Events can be filtered by mission type (e.g., only socio-parasites in community hack missions)
+# These events must be randomly triggered by the system.
+# The player is not warned in advance — only experiences the consequences.
