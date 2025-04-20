@@ -1,49 +1,69 @@
-# HACK//SIMULATION vX.0
+# 🧠 HACK//SIMULATION vX.0
+### Terminal-Based Consciousness RPG
 
-## 🌐 About
-**HACK//SIMULATION vX.0** is a text-based hacking simulation developed by **Sadık Poyraz**.  
-The system blends traditional cyber-infiltration techniques with cognitive and metaphorical layers, delivering both a technical and existential experience.
+![banner](https://img.shields.io/badge/simulation-hack-brightgreen)
 
-## 🔄 Structure
-The system operates through a distributed modular architecture. Each module controls a distinct aspect of the simulation:
+**Welcome to the simulation.** Where every command is a key, every output a fracture in reality — and you? You're not just a player. You're the anomaly.
 
-| Module Name              | Description |
-|--------------------------|-------------|
-| `builder`                | Main system prompt and core routing logic |
-| `commands.txt`           | Basic commands and their descriptions |
-| `commands_advanced.txt`  | Conditional commands with cognitive effects (e.g., /decrypt) |
-| `target_list.json`       | List of technical and cognitive targets |
-| `consciousness_layers.csv` | Zones within the mind that can be hacked |
-| `inventory.txt`          | Technical tools and symbolic objects available to the player |
-| `enemies.txt`            | Internal threats and system defense mechanisms |
-| `missions.txt`           | Modular hacking scenario definitions |
-| `openings.txt`           | Cinematic opening scenes triggered randomly |
-| `signatures.txt`         | Fragmented signature codes attached secretly to system responses |
-| `debug_module.txt`       | Developer testing interface and tools (/debug) |
-| `dynamic_events.txt`     | Random events triggered during mission runtime |
+---
 
-## 🔀 Operational Logic
-- A random scene is selected from `openings.txt` at mission start.
-- Total time limit: **45 minutes** — each command consumes time.
-- Player attempts to hack both **technical** and **consciousness-based** targets.
-- Signature fragments are collected throughout the mission.
-- If conditions are met, `/decrypt` reveals a symbolic consciousness cipher.
-- The system may glitch, loop, freeze, or evolve — sometimes on its own.
+## 🚀 Try It Live
+**🟢 ChatGPT Link:** [Launch in ChatGPT](https://chatgpt.com/g/g-680434fdfc08819182afd89c28cb51fd-hack-simulation-v-x-0)
 
-## ✨ Purpose
-The goal of this simulation is not only to test your technical skills, but to challenge your **perception**, **memory**, and **sense of identity**.  
-Here, hacking is more than data — it’s about **selfhood**, **awareness**, and **the illusion of time**.
+---
 
-## 🔹 Usage
-1. Load all module files into GPT Builder or a compatible interface.  
-2. Assign `builder` as the primary system prompt.  
-3. When the player types `/start`, the simulation initializes.  
-4. For help: `/help`  
-5. For developer mode: `/debug`
+## 💾 About
+HACK//SIMULATION vX.0 is a text-based RPG built in GPT that blends:
 
-## 🌐 License
-This simulation was created by **Sadık Poyraz**.  
-It is free to use for **non-commercial, personal** purposes. All rights reserved.
+- Cyberpunk hacking
+- Symbolic subconscious puzzles
+- Alice in Wonderland meets Linux Terminal vibes
 
-> “Some systems can’t be hacked.  
-> But if you never hack yourself — are you even alive?”
+> "You thought you were hacking the system. But it was rewriting your identity."
+
+---
+
+## 🧩 Core Features
+- 🎬 Randomized cinematic intro scenes
+- 🎯 Mission types: building hacks, dream archives, memory vaults
+- 🧠 /çözümle (analyze) command for decoding hidden messages
+- ✳️ Signature fragments scattered across command results
+- 🪞 Fractal narrative stitched between technical outputs
+
+---
+
+## 🔨 How It Works
+This GPT uses a modular builder format:
+- `builder.txt` contains the core simulation logic
+- Commands, enemies, inventory, scenes, and rewards are managed via external files
+- All gameplay outputs are in English, while modules are designed in Turkish
+
+---
+
+## ✍️ Author
+Developed by: [Sadık Poyraz](https://github.com/sdpyr)
+
+Twitter / X: [@sdkpoyraz](https://twitter.com/sdkpoyraz)  
+GitHub: [github.com/sdpyr](https://github.com/sdpyr)
+
+---
+
+## 🧠 Sample Output
+```
+/start
+⧖ Terminal reboot complete
+⧖ Simulation timestamp: 14 April 2029 – 03:14 AM
+⧖ Assigned Mission: Disrupt Collective Dream Protocol
+
+> "You were always the glitch in their logic."
+```
+
+---
+
+## 🧷 Tags
+`rpg`, `gpt`, `simulation`, `terminal`, `ai`, `cyberpunk`, `text-game`, `consciousness`, `interactive-story`, `dream-hack`
+
+---
+
+## 📜 License
+Free to use, remix, and fall into. This system doesn’t track — but it remembers.
